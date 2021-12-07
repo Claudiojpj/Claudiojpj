@@ -6,9 +6,9 @@ Some of them are:
 
 ![Imagem10](https://user-images.githubusercontent.com/87623334/137501518-e64d9ffc-599a-4c48-ae60-39482251f266.png)
 
-Time spent faster at space, so I have worked for more than 2 years like and Data Engenering and it turns possible to create a lot of functionals codes, they helped people to solve
+Time spent faster at space, so I have worked for more than 2 years like a Data Engenering and it turns possible to create a lot of functionals codes, they helped people to solve
 problems and improve the analyzis from data.
-Nowadays  🌱 I’m currently learning Java Script and I discovered that I'm a good back end developer but I want to be an full stack developer, I think that it will help me to
+Nowadays  🌱 I’m currently learning Java Script and I discovered that I'm a good back end developer but I want to be a full stack developer, I think that it will help me to
 defeat some dark enemies...
 
 Well, if you want to talk with me, reach me at:
