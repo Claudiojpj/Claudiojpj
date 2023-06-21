@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m working as Business Analyst that contributing to  backend for building  applications that help the daily routine for users.
+- :telescope: I’m working as Business Analyst focused in build  applications and analysis that turn the daily routine for users more easy.
 
 - :seedling: Exploring Technical Content Writing.
 
